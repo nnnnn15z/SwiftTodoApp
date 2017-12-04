@@ -12,6 +12,7 @@
 		0E59392B1FD417F30091A96F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0E5939291FD417F30091A96F /* Main.storyboard */; };
 		0E59392D1FD417F30091A96F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0E59392C1FD417F30091A96F /* Assets.xcassets */; };
 		0E5939301FD417F30091A96F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0E59392E1FD417F30091A96F /* LaunchScreen.storyboard */; };
+		0E5939381FD570DC0091A96F /* AddViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E5939371FD570DC0091A96F /* AddViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		0E59392C1FD417F30091A96F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0E59392F1FD417F30091A96F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		0E5939311FD417F30091A96F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0E5939371FD570DC0091A96F /* AddViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 			children = (
 				0E5939251FD417F30091A96F /* AppDelegate.swift */,
 				0E5939271FD417F30091A96F /* ViewController.swift */,
+				0E5939371FD570DC0091A96F /* AddViewController.swift */,
 				0E5939291FD417F30091A96F /* Main.storyboard */,
 				0E59392C1FD417F30091A96F /* Assets.xcassets */,
 				0E59392E1FD417F30091A96F /* LaunchScreen.storyboard */,
@@ -138,6 +141,7 @@
 			files = (
 				0E5939281FD417F30091A96F /* ViewController.swift in Sources */,
 				0E5939261FD417F30091A96F /* AppDelegate.swift in Sources */,
+				0E5939381FD570DC0091A96F /* AddViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
